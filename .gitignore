@@ -34,3 +34,10 @@ node_modules/
 
 # Lock files
 uv.lock
+
+# PyInstaller & Desktop Release Packaging
+build/
+dist/
+*.spec
+*.icns
+web-app/static/downloads/
