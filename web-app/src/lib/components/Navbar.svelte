@@ -5,7 +5,6 @@
 	const navItems = [
 		{ name: 'Home', url: '/' },
 		{ name: 'Demo', url: '/demo' },
-		{ name: 'File to ASCII', url: '/file-converter' },
 		{ name: 'Download', url: '/download' }
 	] as const;
 </script>
