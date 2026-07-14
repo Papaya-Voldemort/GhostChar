@@ -1,5 +1,7 @@
 # ASCII-Camera
 
+![ASCII Person waving](./ASCII.gif)
+
 > A quick note on AI usage: AI was used in the making of this project. It helped me learn the ML needed but was not too involved in the final training just the learning before hand. AI was used to make most of the web UI and some of the desktop app to keep things running at high FPS. AI Auto complete was not used as I don't really like it and find it quite annouing. Gemini Web and some Antigravity Agent work was used. Please check out the other README's inside each of the folders for more info!
 
 Welcome to **ASCII-Camera**! This project is a neural-network and pixel-intensity powered real-time ASCII video filter. It enables converting webcam streams, images, and videos into stylized ASCII art.
