@@ -1,5 +1,7 @@
 # Model Training & Export Pipeline
 
+> A quick note on AI: AI was used to help me learn the ML basics required to train this model. It was also used for a little debugging along the way but most of the model itself was done by hand.
+
 This folder has the Python pipeline to make the date for and train the image to ASCII model.
 
 > [HuggingFace](https://huggingface.co/Papaya-Voldemort/image-to-ascii)

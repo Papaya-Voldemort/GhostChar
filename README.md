@@ -1,6 +1,6 @@
 # ASCII-Camera
 
-> A quick note on AI usage: AI was used in the making of this project. It helped me learn the ML needed but was not too involved in the final training just the learning before hand. AI was used to make most of the web UI and some of the desktop app to keep things running at high FPS. AI Auto complete was not used as I don't really like it and find it quite annouing. Gemini Web and some Antigravity Agent work was used.
+> A quick note on AI usage: AI was used in the making of this project. It helped me learn the ML needed but was not too involved in the final training just the learning before hand. AI was used to make most of the web UI and some of the desktop app to keep things running at high FPS. AI Auto complete was not used as I don't really like it and find it quite annouing. Gemini Web and some Antigravity Agent work was used. Please check out the other README's inside each of the folders for more info!
 
 Welcome to **ASCII-Camera**! This project is a neural-network and pixel-intensity powered real-time ASCII video filter. It enables converting webcam streams, images, and videos into stylized ASCII art.
 
@@ -8,7 +8,7 @@ The project is structured into three main components:
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 > Sorry its such a mess this project was NOT meant to get this big
 
@@ -32,7 +32,7 @@ The project is structured into three main components:
 
 ---
 
-## 🛠️ Quick Start
+## Quick Start
 
 ### Running the Web Demo locally
 To run the browser-based camera feed:
@@ -44,6 +44,6 @@ Then visit `http://localhost:8000` in your web browser.
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](file:///Users/elinelson/Documents/Development/Learn_ML/LICENSE) file for details.

@@ -1,42 +1,20 @@
-# sv
+# Ghostchar Website
 
-Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
+> A quick note on AI within the web app: This was the primary section of the project that AI worked on. It designed and wrote about 75% of the website content with minor edits from me. The reason the website was written by AI instead of a human was I was super overwealmed by the scrope of this project and just needed to offload a little stuff.
 
-## Creating a project
+This is the ghostchar website! Its a great way to use the product before you download, and the primary way you download the MacOS app!
 
-If you're seeing this, you've probably already done this step. Congrats!
+## How it was made
+This website was made with SvelteKit and Bun plus vite for deployment.
 
-```sh
-# create a new project
-npx sv create my-app
+We also use prettier to keep things consistant and readable!
+
+## How to use
+
+If you want to run the website locally just run this:
+```
+bun install
+bun run dev
 ```
 
-To recreate this project with the same configuration:
-
-```sh
-# recreate this project
-bun x sv@0.15.4 create --template minimal --types ts --add prettier eslint --install bun web-app
-```
-
-## Developing
-
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
-
-```sh
-npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
-
-## Building
-
-To create a production version of your app:
-
-```sh
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://svelte.dev/docs/kit/adapters) for your target environment.
+Yep! It't that simple! But if you don't want to run it locally try our globally hosted [Ghostchar Website](https://ghostchar.elinelson.dev)
